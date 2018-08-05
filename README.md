@@ -14,6 +14,6 @@ Model evaluation and improvement. In this section I grasped the concept of how y
 
 Lastly the week challenge task given to us was tremendous since I got to apply what I learned in theory to solve a real problem.It was good to apply the workflow of a machine learning task starting from understanding the problem, getting to know the data, data preprocessing , visualising the data to get more insights, model selection, training the model  to applying the model to make prediction.
 
-# Conclusion
+## Conclusion
 In general it was a tuff week basing on the modules but all in all i was able to grasp and learn much in this week from basic foundation of Machine Learning to the implementations of the algorithms in code. The great achievement so far is the intuition behind the algorithm especially supervised ones. Though yet is much to be covered but the accomplishment I have attained so far its a good start to say to this journey on Machine learning. My expectation on the coming week is on having a solid foundation on deep learning.
 #
