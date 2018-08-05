@@ -1,6 +1,6 @@
 # Machine-Learning-IPT-ParrotAI
 
-## Week1 Report
+# Week 1
 
 Here is a my short summary of what I have achieved to learn in my first week of training under ParrotAi.
 
