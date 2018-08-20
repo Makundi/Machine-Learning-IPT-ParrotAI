@@ -35,28 +35,32 @@ Through this week I have manage to cover the following concepts.
 Recommender systems, in this concept I managed to grasp some basic intuition of recommender system, which they have an advantage of increasing sales as result of very personalised offers and an enhanced customer experience as seen in amazon, youtube, AliExpress and others.
 
 Types of recommender systems
-	1. Content based
-	2. Collaborative filtering
+1. Content based
+
+2. Collaborative filtering
 
 Methods of achieving collaborative filtering
-	1. Memory-based
-	identifies clusters of users and utilizes the interactions of one specific user to predict the interactions of 
+1. Memory-based-identifies clusters of users and utilizes the interactions of one specific user to predict the interactions of 
   other similar users.                   
-	Dis-advantage: encounter major problems with large sparse matrices.
-	2. Model-based
-	based on machine learning and data mining techniques
-	Advantage: can work with large sparse matrices.
+Dis-advantage: encounter major problems with large sparse matrices.
+2. Model-based that is based on machine learning and data mining techniques
+Advantage: can work with large sparse matrices.
   
 Apart from recommender systems I went back and learnt more on sequential modelling which I had a partial intro to the subject last week. The new concepts grasped this week pertaining the subject include the mathematical aspect of gated recurrent unit (GRU) and Long Short-term Memory(LSTM) which tends to avoid vanishing gradient using so called cells/gates. Basing on this gates the GRU and LSTM works best in long term dependencies environment since they know when to or not to update the values which is much of mathematical approach based on equations. The GRU is simple hence can be used to build a large dense network but the LSTM is more complex and still more preferable in most cases.
 
-Also I went through my week assignment which is no image captioning as one of the application of sequence modelling.The goal of image captioning is to convert a given input image into a natural language description. The encoder-decoder framework is widely used for this task. The image encoder is a convolutional neural network (CNN). In this assignment, we used resnet 152 pretrained model. The decoder is a long short-term memory (LSTM) network.For the encoder part, the pretrained CNN extracts the feature vector from a given input image. The feature vector is linearly transformed to have the same dimension as the input dimension of the LSTM network. For the decoder part, source and target texts are predefined.Using these source and target sequences and the feature vector, the LSTM decoder is trained as a language model conditioned on the feature vector. The implementation of this assignment was through PyTorch.
+Also I went through my week assignment which was on image captioning as one of the application of sequence modelling.The goal of image captioning is to convert a given input image into a natural language description. The encoder-decoder framework is widely used for this task. The image encoder is a convolutional neural network (CNN). In this assignment, we used resnet 152 pretrained model. The decoder is a long short-term memory (LSTM) network.For the encoder part, the pretrained CNN extracts the feature vector from a given input image. The feature vector is linearly transformed to have the same dimension as the input dimension of the LSTM network. For the decoder part, source and target texts are predefined.Using these source and target sequences and the feature vector, the LSTM decoder is trained as a language model conditioned on the feature vector. The implementation of this assignment was through PyTorch.
 
 
-Lastly on the end of the week learnt how to plan and execute machine learning experiment which involve the following key issues
-	1.Understanding the problem
-	2.Understanding the data: 
-	3.Writing readable and reusable code
-	4.The use of arg parse
-	5.Choosing the appropriate metric for the problem
+Lastly on the end of the week learnt how to plan and execute machine learning experiment which involve the following key issues.
+
+1.Understanding the problem
+
+2.Understanding the data
+
+3.Writing readable and reusable code
+
+4.The use of arg parse
+
+5.Choosing the appropriate metric for the problem
 
 This week marks the end of theory part, the coming weeks will be more into practical part, thus helping us to apply all the underlying concepts of machine learning we have learnt so far. The achievement for this week was the knowledge I got on methods to follow when conducting machine learning experiment and the implementation of image caption in python using pytorch was joyful.
