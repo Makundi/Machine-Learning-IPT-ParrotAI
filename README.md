@@ -32,6 +32,7 @@ The concepts pertaining deep learning in this week were clear and had great time
 
 # WEEK 3
 Through this week I have manage to cover the following concepts.
+
 Recommender systems, in this concept I managed to grasp some basic intuition of recommender system, which they have an advantage of increasing sales as result of very personalised offers and an enhanced customer experience as seen in amazon, youtube, AliExpress and others.
 
 Types of recommender systems
