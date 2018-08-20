@@ -14,7 +14,6 @@ Model evaluation and improvement. In this section I grasped the concept of how y
 
 Lastly the week challenge task given to us was tremendous since I got to apply what I learned in theory to solve a real problem.It was good to apply the workflow of a machine learning task starting from understanding the problem, getting to know the data, data preprocessing , visualising the data to get more insights, model selection, training the model  to applying the model to make prediction.
 
-## Conclusion
 In general it was a tuff week basing on the modules but all in all i was able to grasp and learn much in this week from basic foundation of Machine Learning to the implementations of the algorithms in code. The great achievement so far is the intuition behind the algorithm especially supervised ones. Though yet is much to be covered but the accomplishment I have attained so far its a good start to say to this journey on Machine learning. My expectation on the coming week is on having a solid foundation on deep learning.
 #
 
@@ -54,10 +53,10 @@ Also I went through my week assignment which is no image captioning as one of th
 
 
 Lastly on the end of the week learnt how to plan and execute machine learning experiment which involve the following key issues
-1.Understanding the problem
-2.Understanding the data: 
-3.Writing readable and reusable code
-4.The use of arg parse
-5.Choosing the appropriate metric for the problem
+	1.Understanding the problem
+	2.Understanding the data: 
+	3.Writing readable and reusable code
+	4.The use of arg parse
+	5.Choosing the appropriate metric for the problem
 
 This week marks the end of theory part, the coming weeks will be more into practical part, thus helping us to apply all the underlying concepts of machine learning we have learnt so far. The achievement for this week was the knowledge I got on methods to follow when conducting machine learning experiment and the implementation of image caption in python using pytorch was joyful.
